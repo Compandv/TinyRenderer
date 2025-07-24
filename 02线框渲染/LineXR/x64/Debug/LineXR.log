@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\TR\tinyrenderer_notes\02线框渲染\main.cpp(34,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\02线框渲染\main.cpp(68,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\02线框渲染\main.cpp(69,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\02线框渲染\main.cpp(70,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\02线框渲染\main.cpp(71,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  model.cpp
+  正在生成代码...
+  LineXR.vcxproj -> D:\TR\tinyrenderer_notes\02线框渲染\x64\Debug\LineXR.exe
