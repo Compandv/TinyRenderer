@@ -1,0 +1,50 @@
+﻿  main.cpp
+D:\TR\tinyrenderer_notes\04zbuffer\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(32,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,56): warning C4244:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,56): warning C4244:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,56): warning C4244:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,56): warning C4244:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,34): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,34): warning C4244:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,34): warning C4244:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,34): warning C4244:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(63,34): warning C4244:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(78,24): warning C4305: “+=”: 从“double”到“T”截断
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(78,24): warning C4305:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(78,24): warning C4305:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(78,24): warning C4305:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(78,24): warning C4305:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,33): warning C4244:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,33): warning C4244:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,33): warning C4244:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,33): warning C4244:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,28): warning C4244:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,28): warning C4244:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,28): warning C4244:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(88,28): warning C4244:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,48): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,48): warning C4244:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,48): warning C4244:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,48): warning C4244:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,48): warning C4244:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,21): warning C4244:         with
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,21): warning C4244:         [
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,21): warning C4244:             T=float
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(96,21): warning C4244:         ]
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(130,106): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(130,89): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\04zbuffer\main.cpp(130,72): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  model.cpp
+  tgaimage.cpp
+D:\TR\tinyrenderer_notes\04zbuffer\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“tgaimage.cpp”)
+  
+  正在生成代码...
+  ZBuffer.vcxproj -> D:\TR\tinyrenderer_notes\04zbuffer\x64\Debug\ZBuffer.exe

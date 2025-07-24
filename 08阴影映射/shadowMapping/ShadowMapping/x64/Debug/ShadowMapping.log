@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(47,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,78): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,78): warning C4244:         with
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,78): warning C4244:         [
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,78): warning C4244:             _Ty=float
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,78): warning C4244:         ]
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,59): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,59): warning C4244:         with
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,59): warning C4244:         [
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,59): warning C4244:             _Ty=float
+D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\main.cpp(57,59): warning C4244:         ]
+  ShadowMapping.vcxproj -> D:\TR\tinyrenderer_notes\08阴影映射\shadowMapping\x64\Debug\ShadowMapping.exe

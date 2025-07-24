@@ -1,0 +1,86 @@
+﻿  geometry.cpp
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:         and
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,66): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:         and
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,74): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:         and
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\geometry.cpp(10,82): warning C4244:         ]
+  main.cpp
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,21): warning C4305: “参数”: 从“double”到“t”截断
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,21): warning C4305:         with
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,21): warning C4305:         [
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,21): warning C4305:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,21): warning C4305:         ]
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,17): warning C4305: “参数”: 从“double”到“t”截断
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,17): warning C4305:         with
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,17): warning C4305:         [
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,17): warning C4305:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(14,17): warning C4305:         ]
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(79,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(91,95): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(91,76): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\main.cpp(91,57): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,71): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,71): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,71): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,71): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,71): warning C4244:         ]
+  (编译源文件“main.cpp”)
+      D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,71):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\TR\tinyrenderer_notes\05透视投影\main.cpp(52,6):
+          查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+          D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,13):
+          在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+              D:\TR\tinyrenderer_notes\05透视投影\main.cpp(72,39):
+              请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+  
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,66): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,66): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,66): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,66): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\geometry.h(20,66): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+  model.cpp
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:         and
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,64): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:         with
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:             t=float
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:         ]
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:         and
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:         [
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\05透视投影\model.cpp(84,28): warning C4244:         ]
+  正在生成代码...
+  Perspective-projection.vcxproj -> D:\TR\tinyrenderer_notes\05透视投影\x64\Debug\Perspective-projection.exe

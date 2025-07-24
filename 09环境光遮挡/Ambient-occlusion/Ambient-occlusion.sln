@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ambient-occlusion", "Ambient-occlusion.vcxproj", "{3351EFF6-F16C-3810-2341-F128E62BA304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Debug|x64.ActiveCfg = Debug|x64
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Debug|x64.Build.0 = Debug|x64
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Debug|x86.ActiveCfg = Debug|Win32
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Debug|x86.Build.0 = Debug|Win32
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Release|x64.ActiveCfg = Release|x64
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Release|x64.Build.0 = Release|x64
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Release|x86.ActiveCfg = Release|Win32
+		{3351EFF6-F16C-3810-2341-F128E62BA304}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543869E1-CCB3-4196-A798-4891DB06E155}
+	EndGlobalSection
+EndGlobal

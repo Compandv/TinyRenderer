@@ -1,0 +1,28 @@
+﻿  main.cpp
+D:\TR\tinyrenderer_notes\06移动视角\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\TR\tinyrenderer_notes\06移动视角\main.cpp(91,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,71): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,71): warning C4244:         with
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,71): warning C4244:         [
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,71): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,71): warning C4244:         ]
+  (编译源文件“main.cpp”)
+      D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,71):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\TR\tinyrenderer_notes\06移动视角\main.cpp(64,6):
+          查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+          D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,13):
+          在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+              D:\TR\tinyrenderer_notes\06移动视角\main.cpp(83,25):
+              请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+  
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,66): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,66): warning C4244:         with
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,66): warning C4244:         [
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,66): warning C4244:             t=int
+D:\TR\tinyrenderer_notes\06移动视角\geometry.h(15,66): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+  YDSJ.vcxproj -> D:\TR\tinyrenderer_notes\06移动视角\x64\Debug\YDSJ.exe

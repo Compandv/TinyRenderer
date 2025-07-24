@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\TR\tinyrenderer_notes\07Shader\tgaimage.h(60,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(71,47): warning C4305: “=”: 从“double”到“float”截断
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(72,47): warning C4305: “=”: 从“double”到“float”截断
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(73,47): warning C4305: “=”: 从“double”到“float”截断
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(74,47): warning C4305: “=”: 从“double”到“float”截断
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,66): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,66): warning C4244:         with
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,66): warning C4244:         [
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,66): warning C4244:             _Ty=float
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,66): warning C4244:         ]
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,63): warning C4244:         with
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,63): warning C4244:         [
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,63): warning C4244:             _Ty=float
+D:\TR\tinyrenderer_notes\07Shader\main.cpp(126,63): warning C4244:         ]
+  Shader.vcxproj -> D:\TR\tinyrenderer_notes\07Shader\x64\Debug\Shader.exe
